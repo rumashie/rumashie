@@ -1,4 +1,4 @@
-## Hello.
+## Hello. 😌
 Recent CS grad. Trying to build some cool stuff and just continue learning 😌. <br>
 Most repos here are from my college coursework, but I'm currently working on some personal projects.
 
