@@ -2,7 +2,7 @@
 Recent CS grad. Trying to build some cool stuff and just continue learning 😌. <br>
 Most repos here are from my college coursework, but I'm currently working on some personal projects.
 
-About Me: 🗽:dominican_republic:
+About Me: 🗽:dominican_republic
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
