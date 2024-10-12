@@ -1,5 +1,6 @@
 ## Hello.
-Recent CS grad based in NYC🗽. Trying to build some stuff and just continue learning 😌.
+Recent CS grad based in NYC🗽. Trying to build some cool stuff and just continue learning 😌.
+Most repos here are from my college coursework, but I'm currently working on some personal projects.
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
