@@ -1,6 +1,10 @@
 ## Hello 👋😌
-Recent CS grad. <br>
-Most repos here are from my college coursework.
+Recent CS grad from NYC. <br>
+Most repos here are from my college coursework, with some personal projects sprinkled in. 
+
+**Programming Languages** : Python, HTML/CSS, JavaScript, C++
+
+
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
