@@ -1,6 +1,6 @@
 ## Hello 👋😌
-Recent CS grad. Trying to build some cool stuff and continue learning. <br>
-Most repos here are from my college coursework, but I'm currently working on some personal projects.
+Recent CS grad. <br>
+Most repos here are from my college coursework.
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
