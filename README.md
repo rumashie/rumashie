@@ -1,4 +1,4 @@
-## Hello 👋😌
+## Hello 👋
 Recent CS grad from NYC. Most repos here are from my college coursework, with some personal projects sprinkled in. 
 
 **Programming Languages** : Python, HTML/CSS, JavaScript, C++
