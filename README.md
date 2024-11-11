@@ -1,5 +1,5 @@
 ## Hello 👋
-Recent CS grad from NYC. Most repos here are from my college coursework, with some personal projects sprinkled in. 
+Recent CS grad from NYC. Most repos here are from my college coursework. 
 
 **Programming Languages** : Python, HTML/CSS, JavaScript, C++
 
