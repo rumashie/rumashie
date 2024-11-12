@@ -1,5 +1,5 @@
 ## Hello 👋
-Recent CS grad from NYC. Most repos here are from my college coursework involving Software Engineering and Data Management and Analysis. 
+Recent CS grad from NYC. Most repos here are from my college coursework involving Software Engineering + Data Management and Analysis. 
 
 **Programming Languages** : Python, HTML/CSS, JavaScript (React, Node), C++ <br>
 **Other Data Tools** : SQL, Tableau
