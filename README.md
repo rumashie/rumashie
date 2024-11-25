@@ -3,8 +3,9 @@ Recent CS grad from NYC. Most repos here are from my college coursework involvin
 
 **Programming Languages** : Python, HTML/CSS, JavaScript (React, Node), C++ <br>
 **Other Data Tools** : SQL, Tableau
- 
 
+Some experience with machine learning models, including Decision Tree, Support Vector Machine (SVM), and Random Forest. 
+ 
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
