@@ -3,8 +3,6 @@ Most repos here are from my college coursework involving Software Engineering + 
 
 **Programming Languages** : Python, HTML/CSS, JavaScript (React, Node), C++ <br>
 **Other Data Tools** : SQL, Tableau
-
-Some experience with machine learning models, including Decision Tree, Support Vector Machine (SVM), and Random Forest. 
  
 
 <!--
