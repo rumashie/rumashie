@@ -1,7 +1,7 @@
 ## Hello
 Most repos here are from my college coursework!
 
-- 🔭 I’m currently working on ... *website to host my CS notes*
+- 🔭 I’m currently working on ... *a website to host my personal CS notes*
 
 
  
