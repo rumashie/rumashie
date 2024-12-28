@@ -1,8 +1,9 @@
-## Hello 👋
-Most repos here are from my college coursework involving Software Engineering + Data Management and Analysis. 
+## Hello
+Most repos here are from my college coursework!
 
-**Programming Languages** : Python, HTML/CSS, JavaScript (React, Node), C++ <br>
-**Other Data Tools** : SQL, Tableau
+- 🔭 I’m currently working on ... *website to host my CS notes*
+
+
  
 
 <!--
