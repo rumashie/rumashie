@@ -1,4 +1,3 @@
-![Zelda](https://img.shields.io/badge/Zelda-Fan-green?style=for-the-badge&logo=nintendo)
  
 
 <!--
