@@ -1,4 +1,4 @@
-
+![Zelda](https://img.shields.io/badge/Zelda-Fan-green?style=for-the-badge&logo=nintendo)
  
 
 <!--
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 I am a recent CS grad from NYC. Most repos here are from my college coursework! Mainly software engineering (C++, web dev) and data analysis (Python) projects. 
 Currently, I’m focused on continuing my learning journey and honing my skills in web development, data management, system administration, and CS foundations (computer architecture, data structures and algorithms). 
-I am passionate about computer science education and open, collaborative, and inclusive tech for all. 
 
 -->
 
