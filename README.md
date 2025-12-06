@@ -1,4 +1,3 @@
-![Zelda Icon](https://example.com/zelda-icon.png)
  
 
 <!--
