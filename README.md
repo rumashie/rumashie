@@ -1,4 +1,4 @@
- 
+ ![Zelda Animation](https://example.com/link-running.gif)
 
 <!--
 **rumashie/rumashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
