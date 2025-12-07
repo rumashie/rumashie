@@ -43,17 +43,7 @@
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/>
   </circle>
   
-  <!-- Laptop -->
-  <!-- Laptop base -->
-  <path d="M 120 220 L 280 220 L 290 250 L 110 250 Z" fill="#1a1a3e" stroke="url(#neonCyan)" stroke-width="1.5"/>
   
-  <!-- Laptop screen -->
-  <path d="M 130 220 L 270 220 L 260 120 L 140 120 Z" fill="#0a0a1a" stroke="url(#neonPink)" stroke-width="2"/>
-  
-  <!-- Screen content with glow -->
-  <path d="M 135 215 L 265 215 L 256 125 L 144 125 Z" fill="#00f5ff" opacity="0.15">
-    <animate attributeName="opacity" values="0.1;0.25;0.1" dur="3s" repeatCount="indefinite"/>
-  </path>
   
   <!-- Code lines on screen -->
   <line x1="150" y1="140" x2="240" y2="140" stroke="#00ff00" stroke-width="1.5" opacity="0.8"/>
