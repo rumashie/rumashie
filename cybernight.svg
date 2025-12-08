@@ -41,4 +41,35 @@
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/>
   </circle>
 
+    <!-- Comet shape -->
+  <circle id="comet" cx="0" cy="0" r="8" fill="white" opacity="0.8" />
+</svg>
+
+<script>
+const svg = document.getElementById('svgArea');
+const comet = document.getElementById('comet');
+
+let mouseX = 0, mouseY = 0;
+let posX = 0, posY = 0;
+
+svg.addEventListener('mousemove', (e) => {
+  const rect = svg.getBoundingClientRect();
+  mouseX = e.clientX - rect.left;
+  mouseY = e.clientY - rect.top;
+});
+
+// Animation loop
+function animate() {
+  // Smooth trailing movement
+  posX += (mouseX - posX) * 0.15;
+  posY += (mouseY - posY) * 0.15;
+
+  comet.setAttribute('cx', posX);
+  comet.setAttribute('cy', posY);
+
+  requestAnimationFrame(animate);
+}
+
+animate();
+
 </svg>
