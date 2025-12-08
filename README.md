@@ -1,3 +1,3 @@
 <div>
-  <img src="./cybernight.svg" height=50; style="display:block;margin=0;" />
+  <img src="./cybernight.svg" height=100; style="display:block;margin=0;" />
 </div>
