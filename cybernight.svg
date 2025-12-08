@@ -1,5 +1,6 @@
 <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    
     <!-- Gradients -->
     <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0a1f;stop-opacity:1" />
@@ -18,7 +19,7 @@
   </defs>
   
   <!-- Night Sky -->
-  <rect width="400" height="300" fill="url(#skyGrad)"/>
+  <rect width="800" height="120" fill="url(#skyGrad)"/>
   
   <!-- Stars -->
   <circle cx="50" cy="30" r="1" fill="white" opacity="0.8">
