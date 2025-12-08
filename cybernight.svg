@@ -19,7 +19,7 @@
   </defs>
   
   <!-- Night Sky -->
-  <rect width="1000" height="120" fill="url(#skyGrad)"/>
+  <rect width="400" height="200" fill="url(#skyGrad)"/>
   
   <!-- Stars -->
   <circle cx="50" cy="30" r="1" fill="white" opacity="0.8">
