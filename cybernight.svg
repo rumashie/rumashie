@@ -41,34 +41,23 @@
     <animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/>
   </circle>
 
-  <svg id="svgArea" width="400" height="200" style="background:lightgray">
+<svg id="svgArea" width="400" height="200" style="background:lightgray">
   <defs>
     <filter id="dynamicShadow" x="-50%" y="-50%" width="200%" height="200%">
       <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="black" flood-opacity="0.5"/>
     </filter>
   </defs>
 
-  <!-- Example icon/shape -->
-  <rect x="150" y="80" width="50" height="50" fill="dodgerblue" filter="url(#dynamicShadow)"/>
+  <!-- Example rectangle -->
+  <rect x="150" y="80" width="10" height="10" fill="white" opacity="0.5" filter="url(#dynamicShadow)"/>
 </svg>
 
 <script>
 const svg = document.getElementById('svgArea');
 const shadow = svg.querySelector('feDropShadow');
 
-svg.addEventListener('mousemove', (e) => {
-  const rect = svg.getBoundingClientRect();
-  const mouseX = e.clientX - rect.left;
-  const mouseY = e.clientY - rect.top;
-
-  // Example: shadow offset relative to cursor
-  const dx = (mouseX - 200) * 0.05; // 200 is center of rect
-  const dy = (mouseY - 105) * 0.05; // 105 is center of rect
-
-  shadow.setAttribute('dx', dx);
-  shadow.setAttribute('dy', dy);
-});
-</script>
-
+// Rectangle center
+const rect = svg.querySelector('rect');
+cons
   
 </svg>
